@@ -48,7 +48,7 @@ const App = () => {
 
     return(
         <div className="App">
-            <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=45&h=45" style={{marginTop: '2px'}} alt=""/>
+            <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=40&h=40" style={{marginTop: '2px'}} alt=""/>
             {/* <Typography color="primary" variant="h5" component="h2">Messenger App</Typography> */}
             <Typography color="primary" variant="h5" component="h1">Welcome <span style={{fontWeight: 'bold', color: 'red'}}>{username}</span></Typography>
 
